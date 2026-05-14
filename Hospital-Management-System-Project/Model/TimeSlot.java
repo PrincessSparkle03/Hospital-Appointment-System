@@ -226,5 +226,4 @@ public class TimeSlot implements Displayable {
     public String getSummary() {
         return date + " " + start + "-" + end;
     }
-
 }
